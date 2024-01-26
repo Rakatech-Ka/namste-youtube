@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/namste-youtube/static/css/main.7d685741.css",
+    "main.js": "/namste-youtube/static/js/main.8f8ea280.js",
+    "index.html": "/namste-youtube/index.html",
+    "main.7d685741.css.map": "/namste-youtube/static/css/main.7d685741.css.map",
+    "main.8f8ea280.js.map": "/namste-youtube/static/js/main.8f8ea280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d685741.css",
+    "static/js/main.8f8ea280.js"
+  ]
+}
